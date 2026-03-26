@@ -165,15 +165,15 @@
 
 ---
 
-## 🗺️ Visitor Map
+## 🌍 Visitor Globe
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fparthk1611&label=Total%20Profile%20Visitors&countColor=%2300D9FF&style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://raw.githubusercontent.com/parthk1611/parthk1611/output/globe.svg" alt="Visitor Globe" width="400"/>
 </p>
 
 <p align="center">
   <a href="https://clustrmaps.com/site/1c9k7" title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.png?d=Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw&cl=ffffff" alt="Visitor Map" />
+    <img src="//www.clustrmaps.com/map_v2.png?d=Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw&cl=ffffff" alt="Visitor Map" width="600"/>
   </a>
 </p>
 
