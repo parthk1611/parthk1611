@@ -172,8 +172,8 @@
 </p>
 
 <p align="center">
-  <a href="https://clustrmaps.com/site/Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw" title="Visit tracker">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw&cl=ffffff&w=600&t=tt&co=1a1a2e&ct=00D9FF&cmo=3ac3f5&cmn=ff6b6b" alt="Visitor Map" />
+  <a href="https://clustrmaps.com/site/1c9k7" title="ClustrMaps">
+    <img src="//www.clustrmaps.com/map_v2.png?d=Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw&cl=ffffff" alt="Visitor Map" />
   </a>
 </p>
 
