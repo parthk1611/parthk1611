@@ -95,13 +95,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthk1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthk1611&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthk1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=parthk1611&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthk1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=parthk1611&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthk1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=parthk1611&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&cache_seconds=1800" />
 </p>
 
 <br/>
@@ -122,10 +122,12 @@
 ## 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parthk1611/parthk1611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthk1611/parthk1611/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthk1611/parthk1611/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/parthk1611/parthk1611/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
-
-> 💡 **Setup required:** Add the GitHub Action in `.github/workflows/snake.yml` (see `snake.yml` file in this repo)
 
 <br/>
 
