@@ -95,12 +95,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthk1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats-ten-topaz-70.vercel.app/api?username=parthk1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=parthk1611&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthk1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats-ten-topaz-70.vercel.app/api/top-langs/?username=parthk1611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=parthk1611&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&cache_seconds=1800" />
 </p>
 
