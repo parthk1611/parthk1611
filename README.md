@@ -153,6 +153,34 @@
 
 ---
 
+## 🎵 Now Playing on Apple Music
+
+<p align="center">
+  <a href="https://www.last.fm/user/lucyffer1611">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=lucyffer1611&loved=1&width=680" alt="Last.fm Recently Played" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+## 🗺️ Visitor Map
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fparthk1611&label=Total%20Profile%20Visitors&countColor=%2300D9FF&style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+<p align="center">
+  <a href="https://clustrmaps.com/site/Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw" title="Visit tracker">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw&cl=ffffff&w=600&t=tt&co=1a1a2e&ct=00D9FF&cmo=3ac3f5&cmn=ff6b6b" alt="Visitor Map" />
+  </a>
+</p>
+
+<br/>
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">
