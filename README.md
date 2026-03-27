@@ -168,12 +168,12 @@
 ## 🌍 Visitor Globe
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parthk1611/parthk1611/output/globe.svg" alt="Visitor Globe" width="400"/>
+  <img src="https://raw.githubusercontent.com/parthk1611/parthk1611/main/globe.svg" alt="Visitor Globe" width="400"/>
 </p>
 
 <p align="center">
   <a href="https://clustrmaps.com/site/1c9k7" title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.png?d=Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw&cl=ffffff" alt="Visitor Map" width="600"/>
+    <img src="https://www.clustrmaps.com/map_v2.png?d=Q026nEw1wXxWdXH-alpVzrf5_Qw3cl2B-rEv96SnrLw&cl=ffffff" alt="Visitor Map" width="600"/>
   </a>
 </p>
 
