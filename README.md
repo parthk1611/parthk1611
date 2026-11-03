@@ -94,16 +94,7 @@
 
 
 
-## 🔭 What I'm Building
 
-| 🚀 Project | 📝 Description | 🔧 Stack | 🔗 |
-|:---|:---|:---|:---:|
-| **🗓️ AI Scheduler** | Let AI own your calendar so you can actually think | Python · n8n · OpenAI · React | 🔒 |
-| **🎮 AI Game Agents** | My agents grind so my hands don't have to | Python · RL · Automation | 🔒 |
-
-<br/>
-
----
 
 ## 🐍 Watch My Contributions Get Eaten
 
